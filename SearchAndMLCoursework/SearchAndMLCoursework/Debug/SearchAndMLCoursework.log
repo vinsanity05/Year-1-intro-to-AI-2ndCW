@@ -1,0 +1,7 @@
+﻿  TrainAndTest.c
+C:\Users\vince\OneDrive\Documents\ai coursework 2 v2\SearchAndMLCoursework\src\TrainAndTest.c(123,9): warning C4101: 'bestSoln': unreferenced local variable
+C:\Users\vince\OneDrive\Documents\ai coursework 2 v2\SearchAndMLCoursework\src\TrainAndTest.c(125,10): warning C4101: 'newrule': unreferenced local variable
+C:\Users\vince\OneDrive\Documents\ai coursework 2 v2\SearchAndMLCoursework\src\TrainAndTest.c(126,9): warning C4101: 'variable': unreferenced local variable
+C:\Users\vince\OneDrive\Documents\ai coursework 2 v2\SearchAndMLCoursework\src\TrainAndTest.c(126,19): warning C4101: 'operator': unreferenced local variable
+C:\Users\vince\OneDrive\Documents\ai coursework 2 v2\SearchAndMLCoursework\src\TrainAndTest.c(126,29): warning C4101: 'threshold': unreferenced local variable
+  SearchAndMLCoursework.vcxproj -> C:\Users\vince\OneDrive\Documents\ai coursework 2 v2\SearchAndMLCoursework\Debug\SearchAndMLCoursework.exe
